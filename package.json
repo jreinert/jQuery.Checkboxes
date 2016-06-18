@@ -1,0 +1,27 @@
+{
+  "name": "jquery_checkboxes",
+  "description": "Multi select/deselect checkboxes in javascript.",
+  "version": "0.1.1",
+  "keywords": [
+    "checkboxes",
+	"jquery-plugin",
+	"ecosystem:jquery"
+  ],
+  "homepage": "http://github.com/reecefowell/jQuery.Checkboxes/",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/reecefowell/jQuery.Checkboxes/"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Reece Fowell",
+      "email": "reece@codeconsortium.com",
+      "homepage": "http://reecefowell.com"
+    }
+  ],
+  "main": "jquery.checkboxes.js",
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
